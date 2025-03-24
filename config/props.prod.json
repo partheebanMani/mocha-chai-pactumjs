@@ -1,0 +1,5 @@
+{
+    "request_base_url":"https://reqres.in/",
+    "delete_path":"api/users?page={id}",
+    "restful_url":"https://api.restful-api.dev/"
+}
